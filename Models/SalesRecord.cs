@@ -1,4 +1,6 @@
 ﻿using System;
+using SalesWebMvc.Models.Enums;
+
 namespace SalesWebMvc.Models.Enums
 {
     public class SalesRecord
@@ -20,7 +22,7 @@ namespace SalesWebMvc.Models.Enums
             Date = date;
             Amount = amount;
             Status = status;
-            Seller = Seller;
+            Seller = seller;
         }
         
     }
