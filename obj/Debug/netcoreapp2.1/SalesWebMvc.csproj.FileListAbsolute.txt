@@ -37,3 +37,6 @@ C:\Users\macampos\Documents\SalesWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\Depa
 C:\Users\macampos\Documents\SalesWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\Departments\Index.g.cshtml.cs
 C:\Users\macampos\Documents\SalesWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\Sellers\index.g.cshtml.cs
 C:\Users\macampos\Documents\SalesWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\Sellers\Create.g.cshtml.cs
+C:\Users\macampos\Documents\SalesWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\Sellers\Delete.g.cshtml.cs
+C:\Users\macampos\Documents\SalesWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\Sellers\Details.g.cshtml.cs
+C:\Users\macampos\Documents\SalesWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\Sellers\Edit.g.cshtml.cs
